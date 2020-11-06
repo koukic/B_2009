@@ -45,22 +45,27 @@ ex)買い物時に買い忘れがないかなどを写真を撮るだけでわ�
 
 ## 開発技術
 ### 活用した技術
+#### システム構成図
+<img src="https://user-images.githubusercontent.com/41990509/98366943-1f67e900-2078-11eb-904b-6cafd83e1e19.png" width="800" height="600"/>
+
 #### API・データ
-* 
-* 
+* Google Cloud Vision Api：画像認識
+* Google Cloud Translation Api：翻訳
+* Words Api：類義語
 
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+##### フロントエンド
+* フロントエンド：React Native(Expo) 
+* バックエンド：Ruby on Rails(Ruby), Heroku, Google Cloud Platform, Rapid API
 
 #### デバイス
-* 
-* 
+* iPhone/Android
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
-* 独自で開発したものの内容をこちらに記載してください
-* 特に力を入れた部分をファイルリンク、またはcommit_idを記載してください。
+* マルチプラットフォームでのカメラアプリ開発
+* ユーザー管理, アイテム管理機能のバックエンドAPI
+* 画像認識, 翻訳, 同義語を組み合わせた持ち物照合機能
 
 #### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
 * 
