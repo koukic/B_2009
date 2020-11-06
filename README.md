@@ -10,10 +10,23 @@
 自分はそうならないために何回もチャックリストを確認して多くの時間を浪費したり、めんどくさくて確認をしないと忘れ物をしてしまいます。
 
 そんな時簡単にかつ一瞬で忘れ物を判定してくれるようなアプリがあればとても便利だなと思い開発をはじめました！
-
 ### 製品説明（具体的な製品の説明）
 #### 1 サインアップ、ログイン
-[![Image from Gyazo](https://i.gyazo.com/c97be0cbeca0e9be37c8486feb9c4495.png)](https://gyazo.com/c97be0cbeca0e9be37c8486feb9c4495)
+[![Image from Gyazo](https://i.gyazo.com/d278b6d261cfebdf9cf2b3b46d1e1e8e.png)](https://gyazo.com/d278b6d261cfebdf9cf2b3b46d1e1e8e)
+
+#### 2 持ち物を登録
+[![Image from Gyazo](https://i.gyazo.com/998d46620fd51dd1e6d0f90e7926f3b5.png)](https://gyazo.com/998d46620fd51dd1e6d0f90e7926f3b5)
+
+### 3 写真を撮る
+[![Image from Gyazo](https://i.gyazo.com/9b16b762388d01580295d9750ef1e5bc.png)](https://gyazo.com/9b16b762388d01580295d9750ef1e5bc)
+[![Image from Gyazo](https://i.gyazo.com/5cb0a6ecb7b04afc83db2fc9b5448316.png)](https://gyazo.com/5cb0a6ecb7b04afc83db2fc9b5448316)
+
+
+### 4 忘れ物を表示
+[![Image from Gyazo](https://i.gyazo.com/2c9aae8b48cecf02410c6bf6f88a459a.png)](https://gyazo.com/2c9aae8b48cecf02410c6bf6f88a459a)
+
+### 5 行ってらっしゃい！！
+[![Image from Gyazo](https://i.gyazo.com/88cd8f8d0ea3ea936d854099a898aa1b.png)](https://gyazo.com/88cd8f8d0ea3ea936d854099a898aa1b)
 
 
 
