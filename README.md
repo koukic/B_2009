@@ -11,22 +11,9 @@
 
 そんな時簡単にかつ一瞬で忘れ物を判定してくれるようなアプリがあればとても便利だなと思い開発をはじめました！
 ### 製品説明（具体的な製品の説明）
-#### 1 サインアップ、ログイン
-<img src="https://i.gyazo.com/d278b6d261cfebdf9cf2b3b46d1e1e8e.png" width="200x50">
-
-#### 2 持ち物を登録
-<img src="https://i.gyazo.com/998d46620fd51dd1e6d0f90e7926f3b5.png" width="200x50">
-
-### 3 写真を撮る
-<img src="https://i.gyazo.com/9b16b762388d01580295d9750ef1e5bc.png" width="200x50">   <img src="https://i.gyazo.com/5cb0a6ecb7b04afc83db2fc9b5448316.png" width="200x50">
-
-
-### 4 忘れ物を表示
-<img src="https://i.gyazo.com/2c9aae8b48cecf02410c6bf6f88a459a.png" width="200x50">
-
-### 5 行ってらっしゃい！！
-<img src="https://i.gyazo.com/88cd8f8d0ea3ea936d854099a898aa1b.png" width="200x50">
-
+|1 サインアップ、ログイン|2 持ち物を登録|3 ホーム画面|4 写真を撮る|5 忘れ物を表示| 6 行ってらっしゃい！！
+|---|---|---|---|---|---|
+|<img src="https://i.gyazo.com/d278b6d261cfebdf9cf2b3b46d1e1e8e.png" width="200x45">|<img src="https://i.gyazo.com/998d46620fd51dd1e6d0f90e7926f3b5.png" width="200x45">|<img src="https://i.gyazo.com/9b16b762388d01580295d9750ef1e5bc.png" width="200x45">|<img src="https://i.gyazo.com/5cb0a6ecb7b04afc83db2fc9b5448316.png" width="200x45">|<img src="https://i.gyazo.com/2c9aae8b48cecf02410c6bf6f88a459a.png" width="200x45">|<img src="https://i.gyazo.com/88cd8f8d0ea3ea936d854099a898aa1b.png" width="200x50">
 
 
 ### 特長
