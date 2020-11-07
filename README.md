@@ -76,11 +76,13 @@ ex)買い物時に買い忘れがないかなどを写真を撮るだけでわ�
 1. expoアプリをダウンロードします 
 
   *iOS: https://apps.apple.com/jp/app/expo-client/id982107779 
+   
   *android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ja 
   
 2. アプリを開いたら「Sugn in to your account」ボタンを押して、以下のログイン情報でログインします 
- 
+   
  E-mail/username: NoSalary 
+   
  Password: nosalary$0 
   
 3. 「Laff」というProjectがあるのでそれを開きます
