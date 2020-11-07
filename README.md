@@ -75,15 +75,15 @@ ex)買い物時に買い忘れがないかなどを写真を撮るだけでわ�
 ## ダウンロード方法
 1. expoアプリをダウンロードします 
 
-  *iOS: https://apps.apple.com/jp/app/expo-client/id982107779 
+  * iOS: https://apps.apple.com/jp/app/expo-client/id982107779 
    
-  *android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ja 
+  * android: https://play.google.com/store/apps/details?id=host.exp.exponent&hl=ja 
   
 2. アプリを開いたら「Sugn in to your account」ボタンを押して、以下のログイン情報でログインします 
    
- E-mail/username: NoSalary 
+  * E-mail/username: NoSalary 
    
- Password: nosalary$0 
+  * Password: nosalary$0 
   
 3. 「Laff」というProjectがあるのでそれを開きます
  <img src="https://user-images.githubusercontent.com/46051957/98431517-5af6c780-20f9-11eb-9029-3f1c44e7aad8.PNG" width="200x45">
