@@ -1,6 +1,5 @@
 # 画像分析で忘れ物を防ぐアプリ 「Laff」
-
-[![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
+<img src="https://i.gyazo.com/1021cc3205920cf8a2ab83856dc8e956.png">
 
 ## 製品概要
 #### 忘れ物 × Tech
@@ -74,6 +73,9 @@ ex)買い物時に買い忘れがないかなどを写真を撮るだけでわ�
 * マルチプラットフォームでのカメラアプリ開発
 * ユーザー管理, アイテム管理機能のバックエンドAPI
 * 画像認識, 翻訳, 同義語を組み合わせた持ち物照合機能 
+
+### プレゼン
+https://docs.google.com/presentation/d/1x56RnSUM8XT5Q-hmNnLFchycf73qw6giE5C7PAi2bq4/edit#slide=id.ga88b9b5b42_1_2
  
  
  
